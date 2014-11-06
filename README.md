@@ -1,4 +1,2 @@
-wnm498_2014Fall
-===============
-
-Soupper
+This is a git project.
+I'm confused.
